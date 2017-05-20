@@ -1,7 +1,8 @@
 Compile Project:
 -----------------
 [c]
--------------------------------------------------------------
+
+javac ./main/*.java;                                                                                                                              -------------------------------------------------------------
 RUN Project
 -----------
 [r | less] 
@@ -9,13 +10,18 @@ RUN Project
   space -> next section
   Q -> exit
 [r]
+
+java -cp ./workspace/project/ main.OPAChess                                                                                                       
 -------------------------------------------------------------
 
 Compile & Run
 --------------
 [c;r]
 
+Run Jar
 -------
+java -jar jarfilename. jar.
+
 
 UCI Test
 ---------
