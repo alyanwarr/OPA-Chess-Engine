@@ -1,0 +1,42 @@
+2017-05-19 17:20:05.098-->1:uci
+2017-05-19 17:20:05.109<--1:id name Hermann 2.7.1
+2017-05-19 17:20:05.109<--1:id author Volker Annuss
+2017-05-19 17:20:05.109<--1:option name Hash type spin default 3 min 1 max 32767
+2017-05-19 17:20:05.110<--1:option name Ponder type check default true
+2017-05-19 17:20:05.110<--1:option name OwnBook type check default true
+2017-05-19 17:20:05.110<--1:option name Clear Hash type button
+2017-05-19 17:20:05.110<--1:option name MultiPV type spin default 1 min 1 max 255
+2017-05-19 17:20:05.110<--1:option name UCI_Chess960 type check default false
+2017-05-19 17:20:05.110<--1:option name BookFile type string default Hermann.opn
+2017-05-19 17:20:05.110<--1:option name Opponent type string default unknown
+2017-05-19 17:20:05.110<--1:option name NumberOfProcessors type spin default 1 min 1 max 8
+2017-05-19 17:20:05.110<--1:option name NeuroMaterial type spin default 40 min 0 max 100
+2017-05-19 17:20:05.110<--1:option name NeuroWidth type spin default 800 min 1 max 10000
+2017-05-19 17:20:05.110<--1:option name MaterialFile type string default (internal)
+2017-05-19 17:20:05.110<--1:option name TimeLogfile type string default /dev/null
+2017-05-19 17:20:05.110<--1:uciok
+2017-05-19 17:20:05.112-->1:setoption name Hash value 12
+2017-05-19 17:20:05.112-->1:setoption name Ponder value true
+2017-05-19 17:20:05.112-->1:setoption name OwnBook value true
+2017-05-19 17:20:05.112-->1:setoption name MultiPV value 1
+2017-05-19 17:20:05.112-->1:setoption name UCI_Chess960 value false
+2017-05-19 17:20:05.112-->1:setoption name BookFile value Hermann.opn
+2017-05-19 17:20:05.112-->1:setoption name Opponent value unknown
+2017-05-19 17:20:05.140-->1:setoption name NumberOfProcessors value 1
+2017-05-19 17:20:05.140-->1:setoption name NeuroMaterial value 40
+2017-05-19 17:20:05.140-->1:setoption name NeuroWidth value 800
+2017-05-19 17:20:05.140-->1:setoption name MaterialFile value (internal)
+2017-05-19 17:20:05.140-->1:setoption name TimeLogfile value /dev/null
+2017-05-19 17:20:05.140-->1:isready
+2017-05-19 17:20:05.179<--1:readyok
+2017-05-19 17:20:05.366*1*Start calc, move no: 0
+2017-05-19 17:20:05.368-->1:ucinewgame
+2017-05-19 17:20:05.368-->1:isready
+2017-05-19 17:20:05.485-->1:position startpos
+2017-05-19 17:20:05.485-->1:go wtime 300000 btime 300000 winc 0 binc 0
+2017-05-19 17:20:05.683<--1:readyok
+2017-05-19 17:20:05.965<--1:bestmove d2d4 ponder d7d5
+2017-05-19 17:20:05.965*1*Found move:d2-d4
+2017-05-19 17:20:06.170**New move before message, game, Game: 0 Move: 1
+2017-05-19 17:20:06.174**New move after message, game 0, should be: 0 engine to move:1
+2017-05-19 17:20:06.176*1*Start calc, move no: 1

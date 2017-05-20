@@ -1,0 +1,17 @@
+============
+Short Term:
+-----------
+* Implement Checkmate condition (Done .. testing)
++ Stop Condition UCI (Done)
++ Command to stop searching and return best move(Thread   "Stop"--->Stops all and return best move) -> UCI (Done)
++ Be sure to finish b4 30 seconds. (Done)
+
+Long Term:
+----------
+* Timer to choose next (Done)
+ 
+Otional:
++ Improve Evaluation (Not Yet)
+
+
+--------------------------------------------------------------------------------------------

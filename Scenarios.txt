@@ -1,0 +1,13 @@
+  "b2b4 b7b5 b1a3 d7d6 c1b2 d8d7 a3b5 d7b5 a2a4 c7c5 a4b5 c5b4 d2d3 d6d4";   normal scenario
+  "c2c4 b7b5 c4c5 d7d5 c5d6 "   en_passant
+  "c2c4 b7b5 c4b5 b8c6 b5b6 c6a5 b6b7 a5b3 b7b8q"   up promotion
+  "b2b4 c7c5 b1a3 c5b4 a3b5 b4b3 b5a3 b3b2 a3b5 b2b1q"   down promotion
+  "b2b4 b7b6 d2d4 c7c6 b1a3 d7d6 c1b2 e7e6 d1d2 f7f6 e1c1"   long castling scenario 1
+  "b7b5 b2b3 d7d5 c2c3 b8c6 a2a3 c8b7 d2d3 d8d7 e2e3 e8c8";  long castling scenario 2
+  "g2g4 b7b6 g1h3 d7d6 f1g2 e7e6 e1g1";  short castling scenario 1
+  "g7g5 b2b3 g8h6 d2d3 f8g7 e2e3 e8g8";  short castling scenario 2
+  "d2d4 c7c5 e2e4 d7d5 f1e2 d8a5 b2b3"  Black Queen checks White King
+  "b2b4 b8c6 a2a3 c6b4 c1b2 b4c2 d1c2 g8f6 b2f6 e7f6 c2c1 f8a3 c1a3 d7d5 a3c1 e8g8 a1a5 c8e6 b1c3 f6f5 c3d5 d8d5 a5d5 e6d5 c1c5 d5g2 f1g2 f5f4 c5c7 f4f3 g1f3 a8d8 f3g5 d8d2 e1d2 f8e8 g2d5 e8e2 d2e2 a7a6 c7f7 g8h8 h1a1 h7h6 g5e6 h8h7 e6g7 h7h8 d5b7 h8h7 a1a6 h7h8 a6h6"; FULL GAME SCENARIO :DDDDDD
+  "b1c3 b8c6 g1f3 g8f6 a2a4 d7d5 c3d5 f6d5 e2e4 e7e5 e4d5 d8d5 f3e5 c6e5 d2d4 d5d4 d1d4 f8c5 d4c5"
+
+====================================================================================================
